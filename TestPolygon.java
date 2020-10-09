@@ -98,6 +98,7 @@ class Triangle extends polygon {
         return a + b + c;
     }
 }
+//seperate the code 
 public class TestPolygon {
     public static void main(String[] args) {
 
