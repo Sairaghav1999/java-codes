@@ -123,3 +123,5 @@ public class TestPolygon {
                 + "\nResulting Perimeter: " + triangle.perimeter() + "\n");
     }
 }
+
+//add an explanation properly
